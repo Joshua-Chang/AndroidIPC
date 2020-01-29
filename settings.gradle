@@ -1,0 +1,2 @@
+include ':Messager', ':binder', ':test', ':binderpool', ':binderobserve'
+rootProject.name='AndroidIPC'
